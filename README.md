@@ -1,2 +1,2 @@
-design-patterns
+Design patterns
 ===============
